@@ -38,7 +38,7 @@ git checkout -b feature1
  ```
  ![alt text](merge_feature1.png)
 ## Make changes in “conflict-branch”, in the same file and line that you had made changes in feature1
-
+Made changes in example.txt
 ## Merge master into conflict-branch [Attach screenshot of terminal & file]
 ![alt text](master_to_conflict.png)
 
