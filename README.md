@@ -178,3 +178,7 @@ git push origin -d <branch-name>
 ## Create a pull request on any open source library on github, attach the pull request link to the readme file of this project’s repository
 
 https://github.com/sky-39/node/pull/new/first-open-source-akash
+
+
+## Link to the test project used for the assignment
+https://github.com/sky-39/Jedi-test.git
