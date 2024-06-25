@@ -29,7 +29,7 @@ git checkout -b conflict-branch
 git checkout -b feature1
 ```
 ## Make some changes in to feature1 branch
-    ![alt text](changes_feature1.png)
+  ![alt text](changes_feature1.png)
 
 ## Merge “feature1” branch into main branch
 ```bash
